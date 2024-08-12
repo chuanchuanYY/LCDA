@@ -1,0 +1,11 @@
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\bin\Debug\net8.0\lib.deps.json
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\bin\Debug\net8.0\lib.dll
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\bin\Debug\net8.0\lib.pdb
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.AssemblyInfoInputs.cache
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.AssemblyInfo.cs
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.csproj.CoreCompileInputs.cache
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.dll
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\refint\lib.dll
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.pdb
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\ref\lib.dll
