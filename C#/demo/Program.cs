@@ -6,3 +6,12 @@ var stackDemo = new StackDemo();
 // stackDemo.Test();
 // stackDemo.TestWithLink();
 #endregion
+
+
+
+#region  Queue 
+QueueDemo queueDemo = new QueueDemo();
+// queueDemo.TestLinkListQueue();
+queueDemo.TestQueue();
+
+#endregion

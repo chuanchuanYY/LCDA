@@ -16,6 +16,7 @@ public class Stack<TValue> : IStack<TValue>
         _arr = new TValue[SIZE];
     }
 
+    public bool IsEmpty() => Count == 0;
     public IEnumerable<TValue> AsEnumerable()
     {
         for(int i=_top -1 ; i>=0;i--)

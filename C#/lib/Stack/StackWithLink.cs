@@ -23,7 +23,7 @@ public class StackWithLink<TValue> : IStack<TValue>
     private  ValueNode? _head;
     public int Count { get; private set; }
 
-
+    public bool IsEmpty() => Count == 0;
     public IEnumerable<TValue> AsEnumerable()
     {
         while(_head != null)
