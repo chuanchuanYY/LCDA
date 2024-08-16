@@ -16,3 +16,4 @@ D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\demo\obj\Deb
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\demo\obj\Debug\net8.0\demo.pdb
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\demo\obj\Debug\net8.0\ref\demo.dll
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\demo\obj\Debug\net8.0\demo.sourcelink.json

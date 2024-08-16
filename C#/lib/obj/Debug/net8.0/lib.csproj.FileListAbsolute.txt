@@ -9,3 +9,4 @@ D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debu
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\refint\lib.dll
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.pdb
 D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\ref\lib.dll
+D:\New_D_Net\编程项目\GithubRepository\数据结构和算法\C#\lib\obj\Debug\net8.0\lib.sourcelink.json
