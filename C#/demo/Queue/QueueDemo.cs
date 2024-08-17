@@ -151,7 +151,7 @@ public class QueueDemo
         dqueue.PushFirst(3);
 
         Console.WriteLine($"Count: {dqueue.Count}");
-        Console.WriteLine($"Peek: {dqueue.PeekLast()}");
+        Console.WriteLine($"Peek: {dqueue.PeekLast()}"); // 1
         // 1,2,3
         Console.WriteLine($"pop last: {dqueue.PopLast()},{dqueue.PopLast()},{dqueue.PopLast()}");
         Console.WriteLine($"Count: {dqueue.Count}");
