@@ -23,8 +23,11 @@ QueueDemo queueDemo = new QueueDemo();
 // binaryTreeDemo.Test();
 // BinarySearchTreeDemo binarySearchTreeDemo = new BinarySearchTreeDemo();
 // binarySearchTreeDemo.Test();
-AvlTreeDemo avlTreeDemo = new();
-avlTreeDemo.Test();
+// AvlTreeDemo avlTreeDemo = new();
+// avlTreeDemo.Test();
+var headDemp = new HeapDemo();
+headDemp.Test();
+
 #endregion
 
 

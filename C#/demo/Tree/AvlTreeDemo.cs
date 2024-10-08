@@ -16,6 +16,5 @@ public class AvlTreeDemo
         string s =  new string('*',10);
         Console.WriteLine(s);
         tree.PreOrder(v=>Console.WriteLine(v));
-        
     }
 }
